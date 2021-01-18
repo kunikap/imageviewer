@@ -1,6 +1,7 @@
 # PhotoViewer App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+One can position the image and after the page refresh it preserves the previous position of the image.
+ [This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
